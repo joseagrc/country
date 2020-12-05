@@ -160,7 +160,7 @@ class Subdivision(DeactivableMixin, ModelSQL, ModelView):
         ('metropolitan region', 'Metropolitan region'),
         ('municipalities', 'Municipalities'),
         ('municipality', 'Municipality'),
-        ('municipal district', 'Distrito Municipal'),
+        ('municipal district', 'Municipal District'),
         ('nation', 'Nation'),
         ('neighborhood', 'Neighborhood'),
         ('oblast', 'Oblast'),
