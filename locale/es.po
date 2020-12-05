@@ -395,8 +395,16 @@ msgid "Municipality"
 msgstr "Municipalidad"
 
 msgctxt "selection:country.subdivision,type:"
+msgid "Municipal District"
+msgstr "Distrito Municipal"
+
+msgctxt "selection:country.subdivision,type:"
 msgid "Nation"
 msgstr "Nación"
+
+msgctxt "selection:country.subdivision,type:"
+msgid "Neighborhood"
+msgstr "Barrio"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Oblast"
@@ -471,6 +479,10 @@ msgid "Self-governed part"
 msgstr "Autonoma"
 
 msgctxt "selection:country.subdivision,type:"
+msgid "Section"
+msgstr "Sección"
+
+msgctxt "selection:country.subdivision,type:"
 msgid "Special District"
 msgstr "Distrito especial"
 
@@ -501,6 +513,10 @@ msgstr "Zona especial"
 msgctxt "selection:country.subdivision,type:"
 msgid "State"
 msgstr "Estado"
+
+msgctxt "selection:country.subdivision,type:"
+msgid "Sub Neighborhood"
+msgstr "Sub Barrio"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Territorial unit"
